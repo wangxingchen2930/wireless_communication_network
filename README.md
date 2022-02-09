@@ -1,1 +1,1 @@
-# wireless_network
+# wireless_communication_network
