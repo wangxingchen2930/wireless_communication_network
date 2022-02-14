@@ -21,7 +21,7 @@ The envelope of an oscillating signal is a smooth curve outlining its extremes. 
 
 ### Envelope detector
 
-Any AM or FM signal {\displaystyle x(t)}x(t) can be written in the following form
+Any AM or FM signal x(t) can be written in the following form
 ><img src="https://latex.codecogs.com/gif.latex?\displaystyle x(t)=R(t)\cos(\omega t+\varphi (t))"/>
 In the case of AM, the phase component of the signal is constant and can be ignored. In AM, the carrier frequency is also constant. Thus, all the information in the AM signal is in R(t). R(t) is called the envelope of the signal. Hence an AM signal is given by the function
 ><img src="https://latex.codecogs.com/gif.latex?\displaystyle x(t)=(C+m(t))\cos(\omega t)"/>
