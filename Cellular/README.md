@@ -12,15 +12,6 @@ TDMA is the channelization protocol in which bandwidth of channel is divided int
 
 In CDMA, all the stations can transmit data simultaneously. It allows each station to transmit data over the entire frequency all the time. Multiple simultaneous transmissions are separated by unique code sequence. Each user is assigned with a unique code sequence. 
 
-### DSSS (Direct Sequence Spread Spectrum)
-
-DSSS utilizes pseudo noise to modify the phase of the signal. This results in an output that closely resembles static noise and would appear as just that to others. But with a process called “de-spreading,” the original signal can be extracted from the noise as long as the pseudo-random sequence is known. A timing search algorithm needs to be employed for the receiver to correctly establish synchronization. **Interference between users is suppressed.**
-
-### FHSS vs DSSS:
-
-- FHSS: utilizes frequency hopping. FHSS is easier to synchronize than DSSS. 
-- DSSS: utilizes pseudo noise to modify the phase of the signal. DSSS is used in positioning systems while FHSS is not.
-
 ### Statistical multiplexing gain
 
 > capacity needed = mean + 3 * std
