@@ -11,6 +11,7 @@
 
 A sideband is a band of frequencies higher than or lower than the carrier frequency, that are the result of the modulation process
 
+
 ### Subcarrier
 
 A subcarrier is a sideband of a radio frequency carrier wave, which is modulated to send additional information.

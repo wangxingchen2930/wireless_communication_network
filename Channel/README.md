@@ -29,3 +29,7 @@ OFDM divides a wide band into several narrow-band sub-carriers, each of which ca
 ## NOMA (Non-orthogonal multiple access)
 
 In NOMA, each user operates in the same band and at the same time where they are distinguished by their power levels. NOMA uses superposition coding at the transmitter such that the successive interference cancellation (SIC) receiver can separate the users both in the uplink and in the downlink channels.
+
+## Narrow band
+
+A narrow band channel in which the bandwidth of the message does not significantly exceed the channel's coherence bandwidth, which results in flat fading. The analysis of many aspects of wireless systems is greatly simplified if flat fading can be assumed.
