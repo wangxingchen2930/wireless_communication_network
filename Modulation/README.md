@@ -91,3 +91,6 @@ A spread spectrum technique that uses wideband linear frequency modulated chirp 
 ### Digital data
 
 - PCM: Pulse coding
+
+## Complex signal
+- The j-operator means rotate a complex number by 90 degrees counterclockwise.
